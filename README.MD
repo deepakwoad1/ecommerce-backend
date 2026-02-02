@@ -1,5 +1,4 @@
-# Ecommerce Backend (Monorepo)
-
+# Ecommerce Backend
 This repository contains multiple Spring Boot microservices.
 
 ## Services
@@ -11,7 +10,6 @@ This repository contains multiple Spring Boot microservices.
 - Java 17
 - Spring Boot
 - Maven
-- Docker (optional)
 
 ## How to Run
 Each service can be run independently.
